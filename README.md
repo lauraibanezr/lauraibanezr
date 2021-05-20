@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lauraibanezr
+- 👀 I’m interested in learn frontend 
+- 🌱 I’m currently learning JavaScript
